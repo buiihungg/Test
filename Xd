@@ -1,0 +1,4 @@
+getgenv().Key = "MARU-MSRXB-CY9C7-Q2W3-B4VEU-CE84"
+getgenv().id = "916249344724828170"
+getgenv().Script_Mode = "Kaitun_Script"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()
